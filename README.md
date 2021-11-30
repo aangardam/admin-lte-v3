@@ -16,3 +16,7 @@
 * Create .env atau rename .env.example menjadi .env
 * Sesuaikan .env dengan database yang sudah dibuat
 * php artisan migrate --seed
+
+### Login ###
+* username/email : <b> admin@gmail.com</b>
+* password : <b> 111 </b>
