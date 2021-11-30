@@ -12,6 +12,7 @@
 * Clone project dari repository
 * CD nama project
 * [composer](https://composer.org) install --prefer-dist
-* Buat databse
+* Create databse
+* Create .env atau rename .env.example menjadi .env
 * Sesuaikan .env dengan database yang sudah dibuat
 * php artisan migrate --seed
